@@ -1,0 +1,14 @@
+*{
+    margin : 0;
+    padding:0;
+    box-sizing:border-box ; 
+  }
+  
+  body{
+    font-family:'Courier New', Courier, monospace;
+    background-color:linear-gradient(90deg, #1abc9c, #13efc3);
+    display:grid;
+    width:100%;
+    justify-items:center;
+  }
+  
